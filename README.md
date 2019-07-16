@@ -1,3 +1,5 @@
 # Predict Housing Sale
-First file is the input dataset
-Second file is all my python code writeen in Jupyter Notebook 
+AmesHousing.tsv is the input dataset. 
+Predicting Housing Sales.ipynb is all my python code writeen in Jupyter Notebook.
+
+	
